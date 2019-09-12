@@ -1,7 +1,3 @@
-\* TOC
-
-{:toc}
-
 # Introduction
 
 Listed below are the steps to get started with Visual Builder in Oracle cloud. There two steps to this process
@@ -57,7 +53,7 @@ You should be presented with the following screen. Input the cloud account name 
 
 ### Step 3: Click on Create Instance
 
-### ![img](assets/image2019-9-12_9-0-59.png)
+![img](assets/image2019-9-12_9-0-59.png)
 
 ### Step 4: Provide a instance name. 
 
