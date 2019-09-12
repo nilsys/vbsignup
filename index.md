@@ -77,6 +77,8 @@ Once you receive the email, click on the hamburger icon next to the instance to 
 
 ![img](assets/image2019-9-12_10-40-42.png)
 
-### Step 8: You should end up navigating to the following page
+### Step 8: You should end be navigated to the following page
 
 ![img](assets/image2019-9-12_9-11-45.png)
+
+Congraguations : Your visual builder instance is setup and ready for use.
