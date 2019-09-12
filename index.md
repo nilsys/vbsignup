@@ -9,13 +9,13 @@ Listed below are the steps to get started with Visual Builder in Oracle cloud. T
 
 # Signup for Oracle Cloud Trial
 
-### Step 1 : Navigate to https://cloud.oracle.com
+### Step 1 : Navigate to [https://cloud.oracle.com](https://cloud.oracle.com)
 
 ![img](assets/image2019-9-12_10-21-42.png)
 
 ### Step 2: Important : Use the email address you used to register for Oracle OpenWorld/CodeOne
 
-Note: If you don't use this email address, you will have to provide credit card information.
+**Note: If you don't use this email address, you will have to provide credit card information.**
 
 ![img](assets/image2019-9-12_8-3-45.png)
 
@@ -27,7 +27,7 @@ Note: If you don't use this email address, you will have to provide credit card 
 
 ### Step 4: Choose a cloud account name
 
-Important: Please note this cloud account name. You will need this to log into the console
+**Important: Please note this cloud account name. You will need this to log into the console**
 
 ![img](assets/image2019-9-12_10-29-11.png)
 
