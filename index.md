@@ -1,3 +1,5 @@
+{:toc}
+
 # Introduction
 
 Listed below are the steps to get started with Visual Builder in Oracle cloud. There two steps to this process
