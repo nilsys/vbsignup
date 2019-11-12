@@ -18,6 +18,10 @@ Click on the Oracle Cloud Free Tier as show in the screen shot below.
 
 Complete the processe of signing up and then once your signed up follow the instructions below.
 
+### Step 4: Once you have completed the signup, you should be directed to the cloud console.
+
+Logout of the cloud console. Give it a few minutes before logging back in.
+
 # Provisioning Visual Builder Services
 
 ### Step 1: Navigate to : [https://cloud.oracle.com](https://cloud.oracle.com/) and click sign in
